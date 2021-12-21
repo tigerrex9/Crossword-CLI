@@ -2,7 +2,7 @@
 #include <iostream>
 #include <ncurses.h>
 
-using namespace std;
+using std::string, std::cout, std::cin, std::endl;
 
 int main(){
     initscr();
